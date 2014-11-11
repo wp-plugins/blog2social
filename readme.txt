@@ -1,4 +1,4 @@
-=== Plugin Name ===
+ï»¿=== Plugin Name ===
 Plugin Name: Blog2Social
 Contributors: Adenion
 Donate link: http://www.blog2social.com
@@ -25,17 +25,17 @@ Das WordPress Plugin Blog2Social gestaltet das Blogmarketing in den Social Media
 * Flickr und
 * Diigo
 
-Dabei sind individuelle Anpassungen für jedes einzelne Netzwerk möglich. Wählen Sie auch ein passendes Bild aus dem Blogbeitrag für Ihre Social Media Postings aus.
+Dabei sind individuelle Anpassungen fÃ¼r jedes einzelne Netzwerk mÃ¶glich. WÃ¤hlen Sie auch ein passendes Bild aus dem Blogbeitrag fÃ¼r Ihre Social Media Postings aus.
 
-Mit Blog2Social sparen Sie kostbare Zeit: Anstatt jeden Social Media Kanal einzeln anzuwählen, erledigen Sie Ihr Blogmarketig mit Blog2Social direkt über Ihren Blog. Mit Blog2Social erstellen Sie Ihr Social Media Posting 1 Mal und teilen es mit einem Klick mit all Ihren Fans und Followern auf Facebook, Twitter & Co.
+Mit Blog2Social sparen Sie kostbare Zeit: Anstatt jeden Social Media Kanal einzeln anzuwÃ¤hlen, erledigen Sie Ihr Blogmarketig mit Blog2Social direkt Ã¼ber Ihren Blog. Mit Blog2Social erstellen Sie Ihr Social Media Posting 1 Mal und teilen es mit einem Klick mit all Ihren Fans und Followern auf Facebook, Twitter & Co.
 
-Promoten Sie Ihre Blogbeiträge mit Blog2Social auch über Themen- und Fachportale, Social Bookmark Verzeichnisse, RSS-Portale und Dokumenten-Netzwerke. Klicken Sie dazu im Plugin auf „Übermittlung an PR-Gateway“. Blog2Social überträgt den Blogbeitrag für Sie au-tomatisch in die Eingabemaske, die speziell auf die Anforderungen von Themen- und Fach-portale, RSS-Feeds und Dokumenten-Netzwerke abgestimmt ist.
+Promoten Sie Ihre BlogbeitrÃ¤ge mit Blog2Social auch Ã¼ber Themen- und Fachportale, Social Bookmark Verzeichnisse, RSS-Portale und Dokumenten-Netzwerke. Klicken Sie dazu im Plugin auf "Ãœbermittlung an PR-Gateway". Blog2Social Ã¼bertrÃ¤gt den Blogbeitrag fÃ¼r Sie au-tomatisch in die Eingabemaske, die speziell auf die Anforderungen von Themen- und Fach-portale, RSS-Feeds und Dokumenten-Netzwerke abgestimmt ist.
 
-Die Verwendung von Blog2Social für die Verbreitung Ihrer Blogbeiträge auf Ihren Social Media Profilen ist komplett kostenfrei.
+Die Verwendung von Blog2Social fÃ¼r die Verbreitung Ihrer BlogbeitrÃ¤ge auf Ihren Social Media Profilen ist komplett kostenfrei.
 
-Mit einer weitreichenden Promotion Ihrer Blogbeiträge auf den Social Media, Themen- und Fachportalen, Social Bookmark Verzeichnissen, RSS-Portalen und Dokumenten-Netzwerken verbessern Sie zusätzlich die Auffindbarkeit Ihrer Blogbeiträge in den Suchmaschinen. Sie schaffen viele Anlaufstellen für Ihre Zielgruppe im Internet. Über diese Fundstellen gelangt Ihre Zielgruppe auf Ihren Blog. So gewinnen Sie mit Blog2Social mit wenig Zeitaufwand mehr Leser für Ihre Blogbeiträge. 
+Mit einer weitreichenden Promotion Ihrer BlogbeitrÃ¤ge auf den Social Media, Themen- und Fachportalen, Social Bookmark Verzeichnissen, RSS-Portalen und Dokumenten-Netzwerken verbessern Sie zusÃ¤tzlich die Auffindbarkeit Ihrer BlogbeitrÃ¤ge in den Suchmaschinen. Sie schaffen viele Anlaufstellen fÃ¼r Ihre Zielgruppe im Internet. Ã¼ber diese Fundstellen gelangt Ihre Zielgruppe auf Ihren Blog. So gewinnen Sie mit Blog2Social mit wenig Zeitaufwand mehr Leser fÃ¼r Ihre BlogbeitrÃ¤ge. 
 
-Für die Promotion der Blogbeiträge über Themen- und Fachportale, Social Bookmark Ver-zeichnisse, RSS-Portale und Dokumenten-Netzwerke benötigen Sie einen kostenlosen PR-Gateway Account: [pr-gateway.de/anmeldung](http://www.pr-gateway.de/anmeldung "PR-Gateway kostenlos Registieren")
+FÃ¼r die Promotion der BlogbeitrÃ¤ge Ã¼ber Themen- und Fachportale, Social Bookmark Ver-zeichnisse, RSS-Portale und Dokumenten-Netzwerke benÃ¤tigen Sie einen kostenlosen PR-Gateway Account: [pr-gateway.de/anmeldung](http://www.pr-gateway.de/anmeldung "PR-Gateway kostenlos Registieren")
 
 == Installation ==
 
