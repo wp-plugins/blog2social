@@ -2,7 +2,7 @@
 Plugin Name: Blog2Social
 Contributors: Adenion
 Donate link: http://www.blog2social.com
-Tags: Social Media, Social Web, Blogmarketing, Blog-Promotion, Social Sharing, Facebook, Twitter, Google+, LinkedIn, Xing, Tumblr, Storify, Pinterest, Flickr, Diigo, Presseportale, Pres-severteiler, Reichweite, Sichtbarkeit
+Tags: Social Media, Social Web, Blogmarketing, Blog-Promotion, Social Sharing, Facebook, Twitter, Google+, LinkedIn, Xing, Tumblr, Storify, Pinterest, Flickr, Diigo, Presseportale, Presseverteiler, Reichweite, Sichtbarkeit
 Requires at least: 3.7
 Tested up to: 4.0
 Stable tag: 1.0
