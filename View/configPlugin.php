@@ -14,7 +14,7 @@ if (isset($_POST['prgPlugin_save']) && $_POST['prgPlugin_save'] == '1') {
         $wpdb->query($sqlUpdateData);
         $userConfig['lang'] = $_POST['lang'];
         $userConfig = (object) $userConfig;
-        echo '<meta http-equiv="refresh" content="0; URL=?page=prgpluginconfig">';
+        echo '<meta http-equiv="refresh" content="0; URL=?page=b2spluginconfig">';
         exit;
     }
 } else {
