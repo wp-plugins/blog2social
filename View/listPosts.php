@@ -7,7 +7,7 @@ if (!function_exists('add_action')) {
 global $wpdb;
 
 $currentUserID = get_current_user_id();
-$filters = getFilterSent($currentUserID);
+$filters = b2sgetFilterSent($currentUserID);
 if (!empty($_GET['filterSet'])) {
     $allowedFilter = array(
         'prg',
@@ -20,7 +20,7 @@ if (!empty($_GET['filterSet'])) {
 
     if (in_array($_GET['filterSet'], $allowedFilter)) {
         $filters[$_GET['filterSet']] = !$filters[$_GET['filterSet']];
-        setFilterSent($currentUserID, $filters);
+        b2ssetFilterSent($currentUserID, $filters);
     }
 }
 
