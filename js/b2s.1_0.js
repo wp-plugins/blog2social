@@ -76,7 +76,7 @@ jQuery(document).ready(function () {
                                                 alert(validateMessages.falsche_daten);
                                                 return false;
                                             } else {
-                                                jQuery("#toplevel_page_prg_connect .wp-submenu").append('<li><a href="admin.php?page=prglogout">Logout</a></li>');
+                                                jQuery("#toplevel_page_prg_connect .wp-submenu").append('<li><a href="admin.php?page=b2slogout">Logout</a></li>');
                                                 jQuery("#" + blogid).trigger("click");
                                             }
                                             return false;
