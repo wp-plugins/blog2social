@@ -5,7 +5,7 @@ Donate link: http://www.blog2social.com
 Tags: Social Media, Social Web, Blogmarketing, Blog-Promotion, Social Sharing, Facebook, Twitter, Google+, LinkedIn, Xing, Tumblr, Storify, Pinterest, Flickr, Diigo, Presseportale, Presseverteiler, Reichweite, Sichtbarkeit
 Requires at least: 3.7
 Tested up to: 4.0
-Stable tag: 1.2
+Stable tag: 1.3
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -64,3 +64,5 @@ No, the needed permissions are the standard Options ( "wp-content/plugins" 755)
 * added new networks (google+, diigo)
 = 1.2 =
 * added new network (xing)
+= 1.3 =
+* performance bugfix
