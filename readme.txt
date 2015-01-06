@@ -2,17 +2,19 @@
 Plugin Name: Blog2Social
 Contributors: Adenion
 Donate link: http://www.blog2social.com
-Tags: Social Media, Social Web, Blogmarketing, Blog-Promotion, Social Sharing, Facebook, Twitter, Google+, LinkedIn, Xing, Tumblr, Storify, Pinterest, Flickr, Diigo, Presseportale, Presseverteiler, Reichweite, Sichtbarkeit
+Tags: Presseportal, Reichweite, Sichtbarkeit, Social Media, Social Publishing, PR-Gateway, Presseverteiler, Bilder, Pictures, Plugin, Sharing, Social Networks, Social Sharing, Scope, Visibility, press portal, Facebook, Twitter, Google+, Linkedin, Xing, Tumblr, Pinterest, Storify, Flickr, Diigo
 Requires at least: 3.7
 Tested up to: 4.0
 Stable tag: 1.3
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Zeiteffizientes Blogmarketing in den Social Media mit Blog2Social 
+Publish your blog post on Social Media
 
 == Description ==
-Das WordPress Plugin Blog2Social gestaltet das Blogmarketing in den Social Media zeiteffi-zient. Mit einem Klick teilen Sie Ihren Blogbeitrag, direkt vom Backend Ihres Blogs, mit Ihren Fans und Followern auf:
+Publish your blog posts to all of your Social Media profiles with one click only. Full control: check the previews of your post on the Social Media streams you selected and adjust them. 
+Save the time-consuming work for content distribution on various Social Media and achieve more coverage in less time. 
+The following Social Media channels are available:
 
 * Facebook
 * Twitter
@@ -22,20 +24,14 @@ Das WordPress Plugin Blog2Social gestaltet das Blogmarketing in den Social Media
 * Tumblr
 * Storify
 * Pinterest
-* Flickr und
+* Flickr
 * Diigo
 
-Dabei sind individuelle Anpassungen für jedes einzelne Netzwerk möglich. Wählen Sie auch ein passendes Bild aus dem Blogbeitrag für Ihre Social Media Postings aus.
+Blog2Social gives you access to a personal image database. Give your content an attractive visual touch. With the image database you can store and select additional images or use existing images from your blog.
 
-Mit Blog2Social sparen Sie kostbare Zeit: Anstatt jeden Social Media Kanal einzeln anzuwählen, erledigen Sie Ihr Blogmarketig mit Blog2Social direkt über Ihren Blog. Mit Blog2Social erstellen Sie Ihr Social Media Posting 1 Mal und teilen es mit einem Klick mit all Ihren Fans und Followern auf Facebook, Twitter & Co.
+With Blog2Social you also have the option to broadcast your blog post to the PR-Gateway network of news websites, special interest websites, regional portals, industry websites and document networks like Slideshare, Scribd or Issuu to make your content and your blog even more popular. Publish your blog content and increase your presence on the web - with one click only.
 
-Promoten Sie Ihre Blogbeiträge mit Blog2Social auch über Themen- und Fachportale, Social Bookmark Verzeichnisse, RSS-Portale und Dokumenten-Netzwerke. Klicken Sie dazu im Plugin auf "Übermittlung an PR-Gateway". Blog2Social überträgt den Blogbeitrag für Sie au-tomatisch in die Eingabemaske, die speziell auf die Anforderungen von Themen- und Fach-portale, RSS-Feeds und Dokumenten-Netzwerke abgestimmt ist.
-
-Die Verwendung von Blog2Social für die Verbreitung Ihrer Blogbeiträge auf Ihren Social Media Profilen ist komplett kostenfrei.
-
-Mit einer weitreichenden Promotion Ihrer Blogbeiträge auf den Social Media, Themen- und Fachportalen, Social Bookmark Verzeichnissen, RSS-Portalen und Dokumenten-Netzwerken verbessern Sie zusätzlich die Auffindbarkeit Ihrer Blogbeiträge in den Suchmaschinen. Sie schaffen viele Anlaufstellen für Ihre Zielgruppe im Internet. über diese Fundstellen gelangt Ihre Zielgruppe auf Ihren Blog. So gewinnen Sie mit Blog2Social mit wenig Zeitaufwand mehr Leser für Ihre Blogbeiträge. 
-
-Für die Promotion der Blogbeiträge über Themen- und Fachportale, Social Bookmark Ver-zeichnisse, RSS-Portale und Dokumenten-Netzwerke benätigen Sie einen kostenlosen PR-Gateway Account: [pr-gateway.de/anmeldung](http://www.pr-gateway.de/anmeldung "PR-Gateway kostenlos Registieren")
+Create your free account at [pr-gateway.de/anmeldung](http://www.pr-gateway.de/anmeldung "PR-Gateway kostenlos Registieren")
 
 == Installation ==
 
@@ -50,10 +46,17 @@ Für die Promotion der Blogbeiträge über Themen- und Fachportale, Social Bookm
 == Frequently Asked Questions ==
 
 = Is it free? =
-Yes, to publish your article on social media. If you want to publish your article over PR-Gateway on + 250 Press Portals, you can create your account [here](http://www.pr-gateway.de/anmeldung "PR-Gateway kostenlos Registieren"). 
+Yes, to publish your article on social media. If you want to publish your article over PR-Gateway on + 250 Press Portals, you can create your account [here](http://www.pr-gateway.de/anmeldung "PR-Gateway kostenlos Registrieren"). 
 
 = Are special folder permissions needed? =
 No, the needed permissions are the standard Options ( "wp-content/plugins" 755)
+
+= My Google+ Account doesn’t work! What do I need to do? =
+At first please log in to your google-account on [google](http://www.google.com "google.com")
+Now go to the site: [unlock captcha](https://accounts.google.com/UnlockCaptcha "Captcha Unlocker") Here you get to the security settings from your Google+ Account.
+Now you see a security query. By confirming the query your account will be connected to the plugin. You now will get a note that your access to Google+ is activated.
+Done!
+
 
 == Screenshots ==
 1. Overview Blog2Social Plugin
