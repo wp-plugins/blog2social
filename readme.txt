@@ -46,10 +46,17 @@ Create your free account at [pr-gateway.de/anmeldung](http://www.pr-gateway.de/a
 == Frequently Asked Questions ==
 
 = Is it free? =
-Yes, to publish your article on social media. If you want to publish your article over PR-Gateway on + 250 Press Portals, you can create your account [here](http://www.pr-gateway.de/anmeldung "PR-Gateway kostenlos Registieren"). 
+Yes, to publish your article on social media. If you want to publish your article over PR-Gateway on + 250 Press Portals, you can create your account [here](http://www.pr-gateway.de/anmeldung "PR-Gateway kostenlos Registrieren"). 
 
 = Are special folder permissions needed? =
 No, the needed permissions are the standard Options ( "wp-content/plugins" 755)
+
+= My Google+ Account doesn’t work! What do I need to do? =
+At first please log in to your google-account on [google](http://www.google.com "google.com")
+Now go to the site: [unlock captcha](https://accounts.google.com/UnlockCaptcha "Captcha Unlocker") Here you get to the security settings from your Google+ Account.
+Now you see a security query. By confirming the query your account will be connected to the plugin. You now will get a note that your access to Google+ is activated.
+Done!
+
 
 == Screenshots ==
 1. Overview Blog2Social Plugin
