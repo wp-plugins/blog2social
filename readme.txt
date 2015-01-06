@@ -53,8 +53,11 @@ No, the needed permissions are the standard Options ( "wp-content/plugins" 755)
 
 = My Google+ Account does not work! What do I need to do? =
 At first please log in to your google-account on [google](http://www.google.com "google.com")
+
 Now go to the site: [unlock captcha](https://accounts.google.com/UnlockCaptcha "Captcha Unlocker") Here you get to the security settings from your Google+ Account.
+
 Now you see a security query. By confirming the query your account will be connected to the plugin. You now will get a note that your access to Google+ is activated.
+
 Done!
 
 
