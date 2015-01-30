@@ -1,0 +1,149 @@
+/* 
+    Document   : b2s_form
+    Created on : 12.11.2013, 09:29:09
+    Author     : Thomas Kubik
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+root { 
+    display: block;
+}
+
+#leftPublishForm {
+    width: 55%;
+    float: left;
+    border-right: 1px solid rgb(229, 229, 229);
+}
+
+#rightPublishForm {
+    width: 44%;
+    float: left;
+}
+
+#bottomPublishForm {
+    margin-top: 14px;
+}
+
+#clientdata {
+    left: 56%;
+    position: absolute;
+}
+
+.picList {
+    min-width: 150px;
+    max-width: 200px;
+    float: left;
+}
+
+.rowImages {
+    height: 125px;
+    max-height: 125px;
+}
+
+#img_rights {
+    display: none;
+}
+
+#submitDiv {
+    position: fixed;
+    bottom: 7px;
+    right: 10px;
+    z-index: 9999;
+}
+
+.label-primary {
+    background-color: #FDBF45;
+}
+
+#submitDraft {
+    background-color: #FDBF45;
+    border-color: #FDB62C;
+    color: #FFFFFF;
+}
+
+#submitDraft:hover,
+#submitDraft:focus,
+#submitDraft:active {
+    background-color: #FDB11D;
+    border-color: #E99B03;
+    color: #FFFFFF;
+}
+
+#saved {
+    display: none;
+}
+
+#btnChangeParticulars {
+    margin-bottom: 10px;
+    margin-right: 10px;
+}
+
+label.error {
+    color: red;
+}
+
+.clear {
+    clear: both;
+}
+
+#clearbot {
+    height: 45px;
+}
+
+.administrative-label {
+    background-color: #9E0000;
+    border-color: #AB0000;
+}
+
+.administrative {
+    background-color: #9E0000;
+    border-color: #AB0000;
+}
+
+.administrative:hover,
+.administrative:focus,
+.administrative:active {
+    background-color: #AB1B1B;
+    border-color: #AB1B1B;
+}
+
+.userbtn {
+    background-color: #79B331;
+    border-color: #64B331;
+}
+
+.userbtn:hover,
+.userbtn:focus,
+.userbtn:active {
+    background-color: #93C754;
+    border-color: #93C754;
+}
+
+.label {
+    font-weight: normal;
+}
+
+.imgs {
+    max-height: 140px;
+    max-width: 100%;
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+.picWithRadio {
+    height: 170px;
+}
+
+.pic {
+    height: 140px;
+}
+
+.select {
+    height: 30px;
+}
+
+.rowPics {
+    height: 170px;
+}
