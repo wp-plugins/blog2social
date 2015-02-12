@@ -124,7 +124,7 @@ $images = getImagesByPostID($page_data->ID, false);
                     <div class="form-group">
                         <label class="col-md-11"><small><?php echo $text['MSG_TEXT']; ?></small></label>
                         <div class="col-md-11">                     
-                            <textarea id="prg_text" name="message" rows="10" data-provide="markdown" class="form-control" placeholder="<?php echo $text['MSG_TEXT']; ?>"><?php echo trim(strip_shortcodes(strip_tags($page_data->post_content),'<a>')); ?></textarea>
+                            <textarea id="prg_text" name="message" rows="10" data-provide="markdown" class="form-control" placeholder="<?php echo $text['MSG_TEXT']; ?>"><?php echo strip_shortcodes(strip_tags(trim($page_data->post_content)),'<a>'); ?></textarea>
                         </div>
                     </div>
                     <div class="form-group">
