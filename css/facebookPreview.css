@@ -1,0 +1,112 @@
+/* 
+    Document   : facebookPreview
+    Created on : 14.04.2014, 15:15:30
+    Author     : Thomas Kubik
+    Description:
+        Purpose of the stylesheet follows.
+*/
+body {
+    font-family: 'lucida grande',tahoma,verdana,arial,sans-serif;
+}
+
+#facebookContainer {
+    padding: 12px;
+    width: 486px;
+    border: 1px solid #D3D6DB;
+    border-radius: 3px;
+    background: none repeat scroll 0 0 #FFFFFF;
+}
+.headObject {
+    float: left;
+}
+
+#profilePic {
+    border-radius: 2px;
+    height: 40px;
+    margin-right: 8px;
+    width: 40px;
+}
+
+#userShared {
+    font-size: 12px;
+    line-height: 16px;
+}
+
+#facebookHead {
+
+    height: 40px;
+    clear: both;
+}
+
+#facebookContent {
+    font-size: 13px;
+    line-height: 18px;
+    margin-top: 15px;
+    clear: both;
+    margin-bottom: 10px;
+}
+
+#facebookUrl {
+    font-weight: bold;
+    color: #3B5998;
+}
+
+#facebookSeeMore {
+    color: #3B5998;
+}
+
+#facebookDemo {
+    border: 1px solid rgba(0, 0, 0, 0.15);
+    box-shadow: 0 1px 3px -1px rgba(0, 0, 0, 0.15);
+    height: 116px;
+}
+
+#demoImg {
+    height: 116px;
+    min-width: 72px;
+    margin-right: 12px;
+    float: left;
+    max-width: 25%;
+}
+
+#demoContent {
+    float: left;
+    margin: 15px;
+    max-width: 65%;
+}
+
+#demoTitle {
+    color: #3B5998;
+    font-weight: bold;
+    line-height: 1.28;
+    font-size: 11px;
+}
+
+#demoUrl {
+    font-size: 11px;
+    color: #808080;
+    line-height: 1.28;
+}
+
+#demoText {
+    color: #808080;
+    font-size: 11px;
+    height: auto;
+    margin-top: 14px;
+}
+
+#facebookFeedbackBar {
+    width: 486px;
+    border-bottom: 1px solid #D3D6DB;
+    border-left: 1px solid #D3D6DB;
+    border-right: 1px solid #D3D6DB;
+    padding: 12px;
+    font-family: 'lucida grande',tahoma,verdana,arial,sans-serif;
+    color: #3B5998;
+    line-height: 1.28;
+    font-size: 11px;
+}
+
+#facebookFeedbackBar span {
+    margin-left: 10px;
+}
