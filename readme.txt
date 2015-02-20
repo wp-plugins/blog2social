@@ -77,4 +77,6 @@ Done!
 * added filter for new networks
 * encoding fix
 = 1.3.2 =
-* bugfix Publish Button Text
+* bugfix Publish Button
+= 1.3.3 =
+* bugfix login
