@@ -4,10 +4,10 @@
  * Plugin Name: Blog2Social
  * Plugin URI: http://www.blog2social.com
  * Description: Multi Channel Social Media Distribution Tool - Publish Your Post on your Social Media Accounts
- * Version: 1.3.3
+ * Version: 1.3.4
  * Author: Thomas Kubik
  */
-define('PLUGINVERS', '3.3.3');
+define('PLUGINVERS', '3.3.4');
 
 register_activation_hook(__FILE__, 'activate_blog2social');
 
