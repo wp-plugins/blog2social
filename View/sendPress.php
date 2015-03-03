@@ -368,7 +368,7 @@ $images = getImagesByPostID($page_data->ID, false);
                     <input type="hidden" value="<?php echo $_SESSION['prg_id']; ?>" name="user_id">
                     <input type="hidden" value="direct_insert_news" name="action">
                     <div id="submitDiv">
-                        <button type="submit" name="draft" value="1" class="btn btn-success userbtn" data-color="primary"><?php echo $text['SAVE_MSG_DRAFT']; ?></button>
+                        <button type="submit" name="draft" value="1" class="btn btn-success userbtn cancel" data-color="primary"><?php echo $text['SAVE_MSG_DRAFT']; ?></button>
                         <button type="submit" name="publish" value="1" class="btn btn-success userbtn" data-color="primary"><?php echo $text['PUBLISH_MSG']; ?></button>
                     </div>
                 </div>
