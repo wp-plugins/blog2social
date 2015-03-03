@@ -4,10 +4,10 @@
  * Plugin Name: Blog2Social
  * Plugin URI: http://www.blog2social.com
  * Description: Multi Channel Social Media Distribution Tool - Publish Your Post on your Social Media Accounts
- * Version: 1.3.4
+ * Version: 1.3.5
  * Author: Thomas Kubik
  */
-define('PLUGINVERS', '3.3.4');
+define('PLUGINVERS', '3.3.5');
 
 register_activation_hook(__FILE__, 'activate_blog2social');
 
@@ -48,7 +48,7 @@ function activate_blog2social() {
     $prgc = is_plugin_active('pr-gateway-connect/index.php');
     if ($prgc) {
         deactivate_plugins(basename(__FILE__));
-        wp_die($text['ERROR_ACTIVE_PRGC'], 'Plugin Activation Error', array('response' => 200, 'back_link' => TRUE));
+        wp_die($text['ERROR_ACTIVE_PRGC'] . '<a href="' . admin_url() . 'plugins.php">' . $text['ERROR_ACTIVE_BTN'] . '</a>', 'Plugin Activation Error', array('response' => 200, 'back_link' => FALSE));
     }
 
     global $wpdb;
@@ -119,9 +119,12 @@ function blog2socialMenu() {
         exit;
     }
 
+    $textAll = parse_ini_file('languages/lang.ini', TRUE);
+    $text = $textAll[!empty($userExist->lang) ? $userExist->lang : 'en'];
+
     $pages = array();
     add_menu_page('Blog2Social', 'Blog2Social', 'read', 'blog2social', null, plugins_url('/images/logo16x.png', __FILE__));
-    $pages[] = add_submenu_page('blog2social', 'Blog2Social', 'Dashboard', 'read', 'blog2social', 'blog2social');
+    $pages[] = add_submenu_page('blog2social', 'Blog2Social', $text['MY_CONTENTS'], 'read', 'blog2social', 'blog2social');
 
     if ($userExist == NULL) {
 
@@ -144,9 +147,6 @@ function blog2socialMenu() {
         }
     }
 
-    $textAll = parse_ini_file('languages/lang.ini', TRUE);
-    $text = $textAll[!empty($userExist->lang) ? $userExist->lang : 'en'];
-
     $pages[] = add_submenu_page('blog2social', $text['SN'], $text['SN'], 'read', 'b2sconfigsocial', 'b2sconfigsocial');
     $pages[] = add_submenu_page('blog2social', $text['SETTINGS'], $text['SETTINGS'], 'read', 'b2spluginconfig', 'b2spluginconfig');
 
@@ -159,7 +159,7 @@ function blog2socialMenu() {
     }
 }
 
-if ($_SERVER['PHP_SELF'] == '/wp-admin/post-new.php' || $_SERVER['PHP_SELF'] == '/wp-admin/post.php') {
+if (preg_match('%/wp-admin/post(-new)?\.php%', $_SERVER['PHP_SELF'])) {
     wp_enqueue_script('PRGNewPostJS', plugins_url('/js/b2s_NewPost.1_0.js', __FILE__));
     wp_enqueue_script('FancyBox', plugins_url('/js/jquery.fancybox-1_3_4.pack.js', __FILE__));
     wp_enqueue_style('FancyBoxStyle', plugins_url('/css/jquery.fancybox-1_3_4.css', __FILE__));
@@ -210,7 +210,7 @@ function b2supdateDB() {
     if ($langWP == 'de_DE') {
         $lang = 'de';
     }
-    
+
     if (!$checkTable || $prgc) {
 
         $textAll = parse_ini_file('languages/lang.ini', TRUE);
@@ -218,7 +218,7 @@ function b2supdateDB() {
 
         deactivate_plugins('blog2social/' . basename(__FILE__));
         deactivate_plugins('pr-gateway-connect/index.php');
-        wp_die($text['ERROR_ACTIVE_PRGC'], 'Plugin Activation Error', array('response' => 200, 'back_link' => FALSE));
+        wp_die($text['ERROR_ACTIVE_PRGC'] . '<a href="' . admin_url() . 'plugins.php">' . $text['ERROR_ACTIVE_BTN'] . '</a>', 'Plugin Activation Error', array('response' => 200, 'back_link' => FALSE));
     }
 
     foreach ($checkTable as $row) {
@@ -251,9 +251,6 @@ function b2supdateDB() {
     if (!in_array('linkedinsent', $columns)) {
         $wpdb->query('ALTER TABLE `prg_connect_sent` ADD `linkedinsent` tinyint(1) DEFAULT NULL');
     }
-    if (!in_array('googleplussent', $columns)) {
-        $wpdb->query('ALTER TABLE `prg_connect_sent` ADD `googleplussent` tinyint(1) DEFAULT NULL');
-    }
     if (!in_array('tumblrsent', $columns)) {
         $wpdb->query('ALTER TABLE `prg_connect_sent` ADD `tumblrsent` tinyint(1) DEFAULT NULL');
     }
@@ -265,6 +262,15 @@ function b2supdateDB() {
     }
     if (!in_array('flickrsent', $columns)) {
         $wpdb->query('ALTER TABLE `prg_connect_sent` ADD `flickrsent` tinyint(1) DEFAULT NULL');
+    }
+    if (!in_array('xingsent', $columns)) {
+        $wpdb->query('ALTER TABLE `prg_connect_sent` ADD `xingsent` tinyint(1) DEFAULT NULL');
+    }
+    if (!in_array('diigosent', $columns)) {
+        $wpdb->query('ALTER TABLE `prg_connect_sent` ADD `diigosent` tinyint(1) DEFAULT NULL');
+    }
+    if (!in_array('googleplussent', $columns)) {
+        $wpdb->query('ALTER TABLE `prg_connect_sent` ADD `googleplussent` tinyint(1) DEFAULT NULL');
     }
 }
 
@@ -284,8 +290,12 @@ function b2s_publish_box() {
     $sql = $wpdb->prepare("SELECT `lang` FROM `prg_connect_config` WHERE `author_id` = %d", $currentUserID);
     $userExist = $wpdb->get_row($sql);
 
-    $textAll = parse_ini_file('languages/lang.ini', TRUE);
-    $text = $textAll[$userExist->lang ? $userExist->lang : 'en'];
+    $textAll = parse_ini_file(dirname(__FILE__) . '/languages/lang.ini', TRUE);
+    $defaultLang = 'en';
+    if(isset($userExist->lang) && in_array($userExist->lang,array('de','en'))){
+        $defaultLang = $userExist->lang;
+    }
+    $text = $textAll[$defaultLang];
 
-    echo '<div class="misc-pub-section"><span style="padding: 2px 0 1px 20px; background: url(\'' . plugins_url('/images/logo16x.png', __FILE__) . '\') no-repeat left center;"><a href="#" class="openPRGCSocialMediaPoster">' . $text['SEND_SN'] . '</a></span></div>';
+    echo '<div class="misc-pub-section"><span style="padding: 2px 0 1px 20px; background: url(\'' . plugins_url('/images/logo16x.png', __FILE__) . '\') no-repeat left center;"><a  id="b2swidgetSNPoster" style="display:none" href="#" class="openPRGCSocialMediaPoster">' . $text['SEND_SN'] . '</a><span style="display:none" id="b2swidgetSNPublishFirst">'.$text['PUBLISH_FIRST'].'</span></span></div>';
 }
