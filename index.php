@@ -38,7 +38,7 @@ function b2sActivate() {
                             PRIMARY KEY (`id`)
                                 ) ENGINE=MyISAM DEFAULT CHARSET=utf8 AUTO_INCREMENT=1 ;";
     $wpdb->query($sqlCreateUserFilter);
-    $wpdb->query("ALTER `b2s_filter` ADD INDEX(`post_id`);");
+    $wpdb->query("ALTER TABLE `b2s_filter` ADD INDEX(`post_id`);");
     $wpdb->query("UPDATE `b2s_user` SET `feature` = '0';");  
     $sqlCreateUserContact = " CREATE TABLE IF NOT EXISTS `b2s_user_contact`(
                                 `id` int(5) NOT  NULL  AUTO_INCREMENT ,
