@@ -5,7 +5,7 @@ Donate link: http://www.blog2social.com
 Tags: Presseportal, Reichweite, Sichtbarkeit, Social Media, Social Publishing, PR-Gateway, Presseverteiler, Bilder, Pictures, Plugin, Sharing, Social Networks, Social Sharing, Scope, Visibility, press portal, Facebook, Twitter, Google+, Linkedin, Xing, Tumblr, Pinterest, Storify, Flickr, Diigo
 Requires at least: 4.2.2
 Tested up to: 4.2.2
-Stable tag: 2.0.0
+Stable tag: 2.0.1
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -69,3 +69,5 @@ Done!
 * first Release
 = 2.0.0 =
 New Version
+= 2.0.1 =
+Optimize handling for Social Media preview
