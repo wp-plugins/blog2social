@@ -59,7 +59,7 @@ class B2SNetwork {
         $textareaOnKeyUp = '';
 
         //Settings
-        $isRequiredTextarea = ' required="required"';
+        $isRequiredTextarea = (in_array($this->data->id, $this->isComment)) ? '' : 'required="required"';
         $message = (in_array($this->data->id, $this->isComment)) ? '' : ((in_array($this->data->id, $this->allowTitle)) ? $this->postData->post_title : trim(strip_shortcodes(strip_tags($this->postData->post_content))));
         $infoImage = (in_array($this->data->id, $this->allowNoImage)) ? 'keine Bildversand möglich' : '';
         $messageInfo = empty($infoImage) ? '' : '<small>' . $infoImage . '</small>';
