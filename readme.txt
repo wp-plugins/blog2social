@@ -16,75 +16,75 @@ Publish your blog posts to all of your Social Media profiles with one click only
 =Networks=
 Facebook, Twitter, Google+, LinkedIn, Xing, Tumblr, Storify, Pinterest, Flickr, Diigo
 
-=Features Free=
+== Features Free ==
 * Individualize comments
 * Manage your Author posts
 * Posts a day: up to 3 posts
 * Post images
-=Social Media Networks=
-*Twitter profile
-*Facebook profile
-*Google+ profile
-*Google+ pages
-*Tumblr profile
-=Image Networks=
-*Flickr profile
-*Pinterest profile
-*Storify
-*Diigo
-=Business Networks=
-*Xing profile
-*LinkedIn profile
+== Social Media Networks ==
+* Twitter profile
+* Facebook profile
+* Google+ profile
+* Google+ pages
+* Tumblr profile
+== Image Networks ==
+* Flickr profile
+* Pinterest profile
+* Storify
+* Diigo
+== Business Networks ==
+* Xing profile
+* LinkedIn profile
 
 
-=Features Pro=
-*Individualize comments
-*Manage your Author posts
-*Reporting
-*User per license: up to 10 users
-*Posts a day: up to 50 posts
-*Post images
-=Social Media Networks=
-*Twitter profile
-*Facebook profile
-*Google+ profile
-*Google+ pages
-*Google+ groups
-*Tumblr profile
-*Facebook pages
-*Several Twitter accounts
-*Several Facebook accounts
-*Several Google+ accounts
-*Several Tumblr accounts
-=Image Networks=
-*Flickr profile
-*Pinterest profile
-*Several Flickr accounts
-*Several Pinterest accounts
-=Documents Networks=
-*Storify
-*Diigo
-*Several Storify accounts
-*Several Diigo accounts
-=Business Networks=
-*Xing profile
-*LinkedIn profile
-*LinkedIn pages
-*LinkedIn groups
-*Several Xing accounts
-*Several LinkedIn accounts
+== Features Pro ==
+* Individualize comments
+* Manage your Author posts
+* Reporting
+* User per license: up to 10 users
+* Posts a day: up to 50 posts
+* Post images
+== Social Media Networks ==
+* Twitter profile
+* Facebook profile
+* Google+ profile
+* Google+ pages
+* Google+ groups
+* Tumblr profile
+* Facebook pages
+* Several Twitter accounts
+* Several Facebook accounts
+* Several Google+ accounts
+* Several Tumblr accounts
+== Image Networks ==
+* Flickr profile
+* Pinterest profile
+* Several Flickr accounts
+* Several Pinterest accounts
+== Documents Networks ==
+* Storify
+* Diigo
+* Several Storify accounts
+* Several Diigo accounts
+== Business Networks ==
+* Xing profile
+* LinkedIn profile
+* LinkedIn pages
+* LinkedIn groups
+* Several Xing accounts
+* Several LinkedIn accounts
 
 
-=Support=
+== Support==
 Please send your questions by e-mail blog2social@adenion.de
 
 
-=Payment=
+== Payment ==
 You may pay via PayPal.
 Upgrade Blog2Social now ? http://service.blog2social.com/
 
 
-=PR-Gateway=
+== PR-Gateway ==
 With Blog2Social you also have the option to broadcast your blog post to the PR-Gateway network of news websites, special interest websites, regional portals, industry websites and document networks like Slideshare, Scribd or Issuu to make your content and your blog even more popular. Publish your blog content and increase your presence on the web - with one click only.
 Create your free account at pr-gateway.de/anmeldung
 
