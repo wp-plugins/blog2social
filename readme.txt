@@ -24,10 +24,15 @@ Publish your blog posts to all of your Social Media profiles with one click only
 * Post images
 
 Social Media Networks:
+
 - Twitter profile
+
 - Facebook profile
+
 - Google+ profile
+
 - Google+ pages
+
 - Tumblr profile
 
 Image Networks:
