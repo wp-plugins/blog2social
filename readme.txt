@@ -25,25 +25,23 @@ Publish your blog posts to all of your Social Media profiles with one click only
 
 Social Media Networks:
 
-- Twitter profile
-
-- Facebook profile
-
-- Google+ profile
-
-- Google+ pages
-
-- Tumblr profile
+* Twitter profile
+* Facebook profile
+* Google+ profile
+* Google+ pages
+* Tumblr profile
 
 Image Networks:
-- Flickr profile
-- Pinterest profile
-- Storify
-- Diigo
+
+* Flickr profile
+* Pinterest profile
+* Storify
+* Diigo
 
 Business Networks:
-- Xing profile
-- LinkedIn profile
+
+* Xing profile
+* LinkedIn profile
 
 = Features Pro =
 * Individualize comments
@@ -54,37 +52,41 @@ Business Networks:
 * Post images
 
 Social Media Networks:
-- Twitter profile
-- Facebook profile
-- Google+ profile
-- Google+ pages
-- Google+ groups
-- Tumblr profile
-- Facebook pages
-- Several Twitter accounts
-- Several Facebook accounts
-- Several Google+ accounts
-- Several Tumblr accounts
+
+* Twitter profile
+* Facebook profile
+* Google+ profile
+* Google+ pages
+* Google+ groups
+* Tumblr profile
+* Facebook pages
+* Several Twitter accounts
+* Several Facebook accounts
+* Several Google+ accounts
+* Several Tumblr accounts
 
 Image Networks:
-- Flickr profile
-- Pinterest profile
-- Several Flickr accounts
-- Several Pinterest accounts
+
+* Flickr profile
+* Pinterest profile
+* Several Flickr accounts
+* Several Pinterest accounts
 
 Documents Networks:
-- Storify
-- Diigo
-- Several Storify accounts
-- Several Diigo accounts
+
+* Storify
+* Diigo
+* Several Storify accounts
+* Several Diigo accounts
 
 Business Networks:
-- Xing profile
-- LinkedIn profile
-- LinkedIn pages
-- LinkedIn groups
-- Several Xing accounts
-- Several LinkedIn accounts
+
+* Xing profile
+* LinkedIn profile
+* LinkedIn pages
+* LinkedIn groups
+* Several Xing accounts
+* Several LinkedIn accounts
 
 = Support =
 Please send your questions by e-mail blog2social@adenion.de
