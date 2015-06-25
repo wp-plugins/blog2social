@@ -23,20 +23,20 @@ Publish your blog posts to all of your Social Media profiles with one click only
 * Posts a day: up to 3 posts
 * Post images
 
-**Social Media Networks**
+Social Media Networks
 * Twitter profile
 * Facebook profile
 * Google+ profile
 * Google+ pages
 * Tumblr profile
 
-**Image Networks**
+Image Networks
 * Flickr profile
 * Pinterest profile
 * Storify
 * Diigo
 
-**Business Networks**
+Business Networks
 * Xing profile
 * LinkedIn profile
 
@@ -48,7 +48,7 @@ Publish your blog posts to all of your Social Media profiles with one click only
 * Posts a day: up to 50 posts
 * Post images
 
-**Social Media Networks**
+Social Media Networks
 * Twitter profile
 * Facebook profile
 * Google+ profile
@@ -61,19 +61,19 @@ Publish your blog posts to all of your Social Media profiles with one click only
 * Several Google+ accounts
 * Several Tumblr accounts
 
-**Image Networks**
+Image Networks
 * Flickr profile
 * Pinterest profile
 * Several Flickr accounts
 * Several Pinterest accounts
 
-**Documents Networks**
+Documents Networks
 * Storify
 * Diigo
 * Several Storify accounts
 * Several Diigo accounts
 
-**Business Networks**
+Business Networks
 * Xing profile
 * LinkedIn profile
 * LinkedIn pages
