@@ -14,18 +14,16 @@ Publish your blog post on Social Media
 == Description ==
 Publish your blog posts to all of your Social Media profiles with one click only. Full control: check the previews of your post on the Social Media streams you selected and adjust them. Save the time-consuming work for content distribution on various Social Media and achieve more coverage in less time.
 
-**Networks**
-Facebook, Twitter, Google+, LinkedIn, Xing, Tumblr, Storify, Pinterest, Flickr, Diigo
+**Networks:**
+ Facebook, Twitter, Google+, LinkedIn, Xing, Tumblr, Storify, Pinterest, Flickr, Diigo
 
-**Features Free**
-
+= Features Free =
 * Individualize comments
 * Manage your Author posts
 * Posts a day: up to 3 posts
 * Post images
 
 **Social Media Networks**
-
 * Twitter profile
 * Facebook profile
 * Google+ profile
@@ -33,20 +31,16 @@ Facebook, Twitter, Google+, LinkedIn, Xing, Tumblr, Storify, Pinterest, Flickr, 
 * Tumblr profile
 
 **Image Networks**
-
 * Flickr profile
 * Pinterest profile
 * Storify
 * Diigo
 
 **Business Networks**
-
 * Xing profile
 * LinkedIn profile
 
-
-**Features Pro**
-
+= Features Pro =
 * Individualize comments
 * Manage your Author posts
 * Reporting
@@ -55,7 +49,6 @@ Facebook, Twitter, Google+, LinkedIn, Xing, Tumblr, Storify, Pinterest, Flickr, 
 * Post images
 
 **Social Media Networks**
-
 * Twitter profile
 * Facebook profile
 * Google+ profile
@@ -69,21 +62,18 @@ Facebook, Twitter, Google+, LinkedIn, Xing, Tumblr, Storify, Pinterest, Flickr, 
 * Several Tumblr accounts
 
 **Image Networks**
-
 * Flickr profile
 * Pinterest profile
 * Several Flickr accounts
 * Several Pinterest accounts
 
 **Documents Networks**
-
 * Storify
 * Diigo
 * Several Storify accounts
 * Several Diigo accounts
 
 **Business Networks**
-
 * Xing profile
 * LinkedIn profile
 * LinkedIn pages
@@ -91,17 +81,14 @@ Facebook, Twitter, Google+, LinkedIn, Xing, Tumblr, Storify, Pinterest, Flickr, 
 * Several Xing accounts
 * Several LinkedIn accounts
 
-**Support**
-
+= Support =
 Please send your questions by e-mail blog2social@adenion.de
 
-**Payment**
-
+= Payment =
 You may pay via PayPal.
 Upgrade Blog2Social now ? [http://service.blog2social.com/](http://service.blog2social.com/ "Blog2Social Service")
 
-**PR-Gateway**
-
+= PR-Gateway =
 With Blog2Social you also have the option to broadcast your blog post to the PR-Gateway network of news websites, special interest websites, regional portals, industry websites and document networks like Slideshare, Scribd or Issuu to make your content and your blog even more popular. Publish your blog content and increase your presence on the web - with one click only.
 Create your free account at [pr-gateway.de/anmeldung](http://www.pr-gateway.de/anmeldung "PR-Gateway free register")
 
