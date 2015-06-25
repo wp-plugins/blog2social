@@ -13,7 +13,7 @@ Publish your blog post on Social Media
 
 == Description ==
 Publish your blog posts to all of your Social Media profiles with one click only. Full control: check the previews of your post on the Social Media streams you selected and adjust them. Save the time-consuming work for content distribution on various Social Media and achieve more coverage in less time.
-=Networks=
+== Networks ==
 Facebook, Twitter, Google+, LinkedIn, Xing, Tumblr, Storify, Pinterest, Flickr, Diigo
 
 == Features Free ==
@@ -75,7 +75,7 @@ Facebook, Twitter, Google+, LinkedIn, Xing, Tumblr, Storify, Pinterest, Flickr, 
 * Several LinkedIn accounts
 
 
-== Support==
+== Support ==
 Please send your questions by e-mail blog2social@adenion.de
 
 
