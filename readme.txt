@@ -126,6 +126,12 @@ Now you see a security query. By confirming the query your account will be conne
 
 Done!
 
+= Where do passwords, usernames and personal data get stored? =
+
+The social networks have official interfaces to third-party applications.
+These interfaces authorize the connection to the networks and do not store any login or personal data. 
+Usernames and passwords are saved and stored within the social networks only and nowhere else. Blog2Social has the authorization to get access to these interfaces and only stores this authorization in an encrypted code. Blog2Social neither stores passwords, usernames nor any personal data.
+
 
 == Screenshots ==
 1. Post Overview
