@@ -2,7 +2,7 @@
 Plugin Name: Blog2Social
 Contributors: Adenion
 Donate link: http://www.blog2social.de
-Tags: social media, facebook, twitter, pinterest, linkedIn, google plus, storify,facebook pages, Google plus pages, blog2social, social media sharing, jetpack sharing, jetpack, twitter, xing, pinterest, tumblr, Multiposting, social network icon, socialmedia, social network widget, social media button
+Tags: blog2social, Facebook, facebook pages, google plus, google plus pages, jetpack, Jetpack Sharing, linkedin, Multiposting, pinterest, social media, social media button, social media sharing, social network icon, social network widget, socialmedia, storify, tumblr, twitter, xing
 Requires at least: 4.3
 Tested up to: 4.2
 Stable tag: 2.0.4
