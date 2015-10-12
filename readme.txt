@@ -3,8 +3,8 @@ Plugin Name: Blog2Social
 Contributors: Adenion
 Donate link: http://www.blog2social.de
 Tags: blog2social, Facebook, facebook pages, google plus, google plus pages, jetpack, Jetpack Sharing, linkedin, Multiposting, pinterest, social media, social media button, social media sharing, social network icon, social network widget, socialmedia, storify, tumblr, twitter, xing
-Requires at least: 4.3
-Tested up to: 4.2
+Requires at least: 4.0
+Tested up to: 4.3
 Stable tag: 2.0.4
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
