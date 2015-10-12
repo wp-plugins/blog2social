@@ -2,7 +2,7 @@
 Plugin Name: Blog2Social
 Contributors: Adenion
 Donate link: http://www.blog2social.de
-Tags: Presseportal, Reichweite, Sichtbarkeit, Social Media, Social Publishing, PR-Gateway, Presseverteiler, Bilder, Pictures, Plugin, Sharing, Social Networks, Social Sharing, Scope, Visibility, press portal, Facebook, Twitter, Google+, Linkedin, Xing, Tumblr, Pinterest, Storify, Flickr, Diigo
+Tags: social media, facebook, twitter, pinterest, linkedIn, google plus, storify,facebook pages, Google plus pages, blog2social, social media sharing, jetpack sharing, jetpack, twitter, xing, pinterest, tumblr, Multiposting, social network icon, socialmedia, social network widget, social media button
 Requires at least: 4.3
 Tested up to: 4.2
 Stable tag: 2.0.4
