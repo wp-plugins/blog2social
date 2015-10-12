@@ -1,15 +1,15 @@
 === Plugin Name ===
-Plugin Name: Blog2Social
+Plugin Name: Blog2Social - Social Media Auto Publish
 Contributors: Adenion
-Donate link: http://www.blog2social.de
-Tags: blog2social, Facebook, facebook pages, google plus, google plus pages, jetpack, Jetpack Sharing, linkedin, Multiposting, pinterest, social media, social media button, social media sharing, social network icon, social network widget, socialmedia, storify, tumblr, twitter, xing
+Donate link: http://www.blog2social.com
+Tags: blog2social, Facebook, facebook pages, google plus, google plus pages, jetpack, Jetpack Sharing, linkedin, Multiposting, pinterest, social media, social media button, social media sharing, social network icon, social network widget, socialmedia, storify, social media auto publish, social media publishing, social network auto publish, tumblr, twitter, xing
 Requires at least: 4.0
 Tested up to: 4.3
 Stable tag: 2.0.4
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Publish your blog post on Social Media
+Simply publish your blog post automatically to all social media networks
 
 == Description ==
 Publish your blog posts to all of your Social Media profiles with one click only. Full control: check the previews of your post on the Social Media streams you selected and adjust them. Save the time-consuming work for content distribution on various Social Media and achieve more coverage in less time.
