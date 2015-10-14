@@ -35,6 +35,7 @@ Drive more traffic to your site by promoting your blog posts on all of your soci
 
 
 Social Networks:
+
 * Twitter profile
 * Facebook profile
 * Google+ profile
@@ -58,7 +59,8 @@ Social Networks:
 * Post images
 
 
-Social Media Networks:
+Social Networks:
+
 * Twitter profile
 * Facebook profile
 * Facebook pages
