@@ -2,14 +2,14 @@
 Plugin Name: Blog2Social - Social Media Auto Publish
 Contributors: Adenion
 Donate link: http://www.blog2social.com
-Tags: social media management, blog marketing, social media tool, blog2social, Facebook, Facebook pages, Google plus, Google plus pages, Jetpack, Jetpack Sharing, Linkedin, Multiposting, pinterest, social media, social media button, social media sharing, social network icon, social network widget, socialmedia, Storify, social media auto publish, social media publishing, social network auto publish, Tumblr, Twitter, Xing
+Tags: social media management, blog marketing, social media tool, blog2social, Facebook, Facebook pages, Google plus, Google plus pages, Jetpack, Jetpack Sharing, Linkedin, Multiposting, pinterest, social media, social media button, social media sharing, social network icon, social network widget, socialmedia, Storify, social media auto publish, social media publishing, social network auto publish, Tumblr, Twitter, Xing, social media business, social media manager
 Requires at least: 4.0
 Tested up to: 4.3
 Stable tag: 2.0.4
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Blog2Social makes social media management more effective. It publishes social media posts automatically. Blog2Social is ideal blog marketing.
+Blog2Social makes social media management more effective. It publishes social media posts automatically. Blog2Social is ideal for blog marketing.
 
 == Description ==
 The social media tool Blog2Social makes your blog marketing and your social media management more effective. 
