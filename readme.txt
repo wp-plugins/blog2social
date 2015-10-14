@@ -12,86 +12,81 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Blog2Social makes social media management more effective. It publishes social media posts automatically. Blog2Social is ideal for blog marketing.
 
 == Description ==
-The social media tool Blog2Social makes your blog marketing and your social media management more effective. 
-Publish your blog posts to all of your Social Media profiles with one click only and take the full control about your social media: 
-check the previews of your post on the Social Media streams you selected and adjust them.  
-With the social media tool Blog2Social you save the time-consuming work for content distribution on various Social Media and achieve more coverage in less time.
+
+** Blog2Social Will Help You Promote Your Blog Posts on Popular Social Media Sites **
+
+Blog2Social will become an effective solution for the social media management of your blog posts. Submit your blog posts to popular social networks, on profiles, pages and groups in just one easy step. Blog2Social makes the submission process quick and easy and at the same time allows you to customize your posts for each network. With just one click the posts will be published on your personal selection of profiles, pages and groups on Facebook, Facebook Pages, Google+, Google+ Pages, Google+ Communities, Twitter, LinkedIn, LinkedIn Pages, LinkedIn Groups Xing, Pinterest, Flickr, Diigo, Tumblr and Storify. 
+On a preview pane you may customize your posts and comments per network for different target groups or to add #hashtags, tags, keywords or @handles, where these are applicable. One click and your post is published on all your selected networks.
+
+Drive more traffic to your site by promoting your blog posts on all of your social media accounts and get your work done much quicker and easier than ever. Save the time-consuming manual work for submitting to each network individually and get quick and effective results. 
 
 
-**Networks:**
- Facebook, Twitter, Google+, LinkedIn, Xing, Tumblr, Storify, Pinterest, Flickr, Diigo
+**Social Media Networks:**
+ Facebook, Facebook pages, Twitter, Google+, Google+ pages, Google+ communities, LinkedIn, LinkedIn pages, LinkedIn groups, Xing, Tumblr, Storify, Pinterest, Flickr, Diigo
 
- 
+
 = Features Free =
-* Individualize comments
-* Manage your Author posts
-* Posts a day: up to 3 social media posts
-* Post images
 
-Social Media Networks:
+* Post to all of your networks
+* Individualize posts and comments for each networks
+* Manage your Author posts
+* Post images
+* Reportings
+
+
+Social Networks:
 
 * Twitter profile
 * Facebook profile
 * Google+ profile
-* Google+ pages
-* Tumblr profile
-
-Image Networks:
-
+* LinkedIn profile
+* Xing profile
 * Flickr profile
-* Pinterest profile
+* Pinterest pin board
 * Storify
 * Diigo
+* Tumblr 
 
-Business Networks:
-
-* Xing profile
-* LinkedIn profile
 
 = Features Pro =
-* Individualize comments
+
+* Post to all of your networks
+* Individualize posts and comments for each networks
+* Manage your Author posts
 * Manage your Author posts
 * Reporting
 * User per license: up to 10 users
-* Posts a day: up to 50 social media posts
 * Post images
+
 
 Social Media Networks:
 
 * Twitter profile
 * Facebook profile
+* Facebook pages
 * Google+ profile
 * Google+ pages
 * Google+ groups
-* Tumblr profile
-* Facebook pages
-* Several Twitter accounts
-* Several Facebook accounts
-* Several Google+ accounts
-* Several Tumblr accounts
-
-Image Networks:
-
-* Flickr profile
-* Pinterest profile
-* Several Flickr accounts
-* Several Pinterest accounts
-
-Documents Networks:
-
-* Storify
-* Diigo
-* Several Storify accounts
-* Several Diigo accounts
-
-Business Networks:
-
-* Xing profile
 * LinkedIn profile
 * LinkedIn pages
 * LinkedIn groups
-* Several Xing accounts
-* Several LinkedIn accounts
+* Xing profile
+* Flickr profile
+* Pinterest pin board
+* Storify
+* Diigo
+* Tumblr
+* multiple Twitter accounts
+* multiple Facebook accounts
+* multiple Google+ accounts
+* multiple LinkedIn accounts
+* multiple Xing accounts
+* multiple Flickr accounts
+* multiple Pinterest accounts
+* multiple Storify accounts
+* multiple Diigo accounts
+* multiple Tumblr accounts
+
 
 = Support =
 Please send your questions by e-mail blog2social@adenion.de
@@ -104,25 +99,37 @@ Upgrade Blog2Social now ? [http://service.blog2social.com/](http://service.blog2
 With Blog2Social you also have the option to broadcast your blog post to the PR-Gateway network of news websites, special interest websites, regional portals, industry websites and document networks like Slideshare, Scribd or Issuu to make your content and your blog even more popular. Publish your blog content and increase your presence on the web - with one click only.
 Create your free account at [pr-gateway.de/anmeldung](http://www.pr-gateway.de/anmeldung "PR-Gateway free register")
 
+
 == Installation ==
 
-1.	Go to the Admin Panel of your Wordpress
-2.	On the left menu click on "Plugin" -> "Add New"
-3.	Search for "Blog2Social"
-4.	Click on "Install Now"
-5.	If asked enter your FTP Data to install the plugin
-6.	After the installation click "Activate Plugin"
-7.	A new Menu should appear in the left menu of the Admin Panel
+1.Go to the Admin Panel of your Wordpress 
+
+2.On the left menu click on "Plugin" -> "Add New"
+3.Search for "Blog2Social"
+
+4.Click on "Install Now"
+
+5.If asked enter your FTP Data to install the plugin
+
+6.After the installation click "Activate Plugin"
+
+7.A new Menu should appear in the left menu of the Admin Panel
+
 
 == Frequently Asked Questions ==
 
-= Is it free? =
-Yes, to publish your article on social media. If you want to publish your article over PR-Gateway on + 250 Press Portals, you can create your account [here](http://www.pr-gateway.de/anmeldung "PR-Gateway kostenlos Registrieren"). 
 
+= Is it free? =
+
+Yes it is completely free to publish your article on your social media accounts. For more elaborate features and options you may chose the Pro upgrade whenever you need it. 
+ 
 = Are special folder permissions needed? =
+
 No, the needed permissions are the standard Options ( "wp-content/plugins" 755)
 
+
 = My Google+ Account does not work! What do I need to do? =
+
 At first please log in to your google-account on [google](http://www.google.com "google.com")
 
 Now go to the site: [unlock captcha](https://accounts.google.com/UnlockCaptcha "Captcha Unlocker") Here you get to the security settings from your Google+ Account.
@@ -131,26 +138,33 @@ Now you see a security query. By confirming the query your account will be conne
 
 Done!
 
+
 = Where do passwords, usernames and personal data get stored? =
+
 
 The social networks have official interfaces to third-party applications.
 These interfaces authorize the connection to the networks and do not store any login or personal data. 
 Usernames and passwords are saved and stored within the social networks only and nowhere else. Blog2Social has the authorization to get access to these interfaces and only stores this authorization in an encrypted code. Blog2Social neither stores passwords, usernames nor any personal data.
 
 
+
 == Screenshots ==
+
 1. Post Overview
+
 2. Network Overview
+
 == Changelog ==
-= 1.0 =
+= 
+1.0 =
 * first Release
 = 2.0.0 =
 New Version
 = 2.0.1 =
 Optimize Handling
 = 2.0.2 =
-Optimize Handling Social Media Report
+Optimize Handling and Remove Bugs in Social Media Report
 = 2.0.3 =
-Optimize Handling
+Remove Bugs in Social Media Report
 = 2.0.4 =
-Allow HTTPS Links
+Allow HTTPS URLs
