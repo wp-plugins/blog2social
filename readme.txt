@@ -13,7 +13,7 @@ Blog2Social makes social media management more effective. It publishes social me
 
 == Description ==
 
-** Blog2Social Will Help You Promote Your Blog Posts on Popular Social Media Sites **
+**Blog2Social Will Help You Promote Your Blog Posts on Popular Social Media Sites**
 
 Blog2Social will become an effective solution for the social media management of your blog posts. Submit your blog posts to popular social networks, on profiles, pages and groups in just one easy step. Blog2Social makes the submission process quick and easy and at the same time allows you to customize your posts for each network. With just one click the posts will be published on your personal selection of profiles, pages and groups on Facebook, Facebook Pages, Google+, Google+ Pages, Google+ Communities, Twitter, LinkedIn, LinkedIn Pages, LinkedIn Groups Xing, Pinterest, Flickr, Diigo, Tumblr and Storify. 
 On a preview pane you may customize your posts and comments per network for different target groups or to add #hashtags, tags, keywords or @handles, where these are applicable. One click and your post is published on all your selected networks.
@@ -25,7 +25,7 @@ Drive more traffic to your site by promoting your blog posts on all of your soci
  Facebook, Facebook pages, Twitter, Google+, Google+ pages, Google+ communities, LinkedIn, LinkedIn pages, LinkedIn groups, Xing, Tumblr, Storify, Pinterest, Flickr, Diigo
 
 
-= Features Free =
+= Free Features: =
 
 * Post to all of your networks
 * Individualize posts and comments for each networks
@@ -35,7 +35,6 @@ Drive more traffic to your site by promoting your blog posts on all of your soci
 
 
 Social Networks:
-
 * Twitter profile
 * Facebook profile
 * Google+ profile
@@ -48,7 +47,7 @@ Social Networks:
 * Tumblr 
 
 
-= Features Pro =
+= Pro Features: =
 
 * Post to all of your networks
 * Individualize posts and comments for each networks
@@ -60,7 +59,6 @@ Social Networks:
 
 
 Social Media Networks:
-
 * Twitter profile
 * Facebook profile
 * Facebook pages
