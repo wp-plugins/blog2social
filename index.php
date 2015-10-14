@@ -1,8 +1,8 @@
 <?php
 /**
- * Plugin Name: Blog2Social
- * Plugin URI: http://www.blog2social.de
- * Description: Multi Channel Social Media Distribution Tool - Publish Your Post on your Social Media Accounts
+ * Plugin Name: Blog2Social - Social Media Auto Publish
+ * Plugin URI: http://www.blog2social.com
+ * Description: Blog2Social makes social media management more effective. It publishes social media posts automatically. Blog2Social is ideal blog marketing.
  * Version: 2.0.4
  * Author: Adenion Developer Team
  */

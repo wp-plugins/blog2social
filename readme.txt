@@ -2,25 +2,30 @@
 Plugin Name: Blog2Social - Social Media Auto Publish
 Contributors: Adenion
 Donate link: http://www.blog2social.com
-Tags: blog2social, Facebook, facebook pages, google plus, google plus pages, jetpack, Jetpack Sharing, linkedin, Multiposting, pinterest, social media, social media button, social media sharing, social network icon, social network widget, socialmedia, storify, social media auto publish, social media publishing, social network auto publish, tumblr, twitter, xing
+Tags: social media management, blog marketing, social media tool, blog2social, Facebook, Facebook pages, Google plus, Google plus pages, Jetpack, Jetpack Sharing, Linkedin, Multiposting, pinterest, social media, social media button, social media sharing, social network icon, social network widget, socialmedia, Storify, social media auto publish, social media publishing, social network auto publish, Tumblr, Twitter, Xing
 Requires at least: 4.0
 Tested up to: 4.3
 Stable tag: 2.0.4
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Simply publish your blog post automatically to all social media networks
+Blog2Social makes social media management more effective. It publishes social media posts automatically. Blog2Social is ideal blog marketing.
 
 == Description ==
-Publish your blog posts to all of your Social Media profiles with one click only. Full control: check the previews of your post on the Social Media streams you selected and adjust them. Save the time-consuming work for content distribution on various Social Media and achieve more coverage in less time.
+The social media tool Blog2Social makes your blog marketing and your social media management more effective. 
+Publish your blog posts to all of your Social Media profiles with one click only and take the full control about your social media: 
+check the previews of your post on the Social Media streams you selected and adjust them.  
+With the social media tool Blog2Social you save the time-consuming work for content distribution on various Social Media and achieve more coverage in less time.
+
 
 **Networks:**
  Facebook, Twitter, Google+, LinkedIn, Xing, Tumblr, Storify, Pinterest, Flickr, Diigo
 
+ 
 = Features Free =
 * Individualize comments
 * Manage your Author posts
-* Posts a day: up to 3 posts
+* Posts a day: up to 3 social media posts
 * Post images
 
 Social Media Networks:
@@ -48,7 +53,7 @@ Business Networks:
 * Manage your Author posts
 * Reporting
 * User per license: up to 10 users
-* Posts a day: up to 50 posts
+* Posts a day: up to 50 social media posts
 * Post images
 
 Social Media Networks:
@@ -144,8 +149,8 @@ New Version
 = 2.0.1 =
 Optimize Handling
 = 2.0.2 =
-Optimize Handling and Remove Bugs in Social Media Report
+Optimize Handling Social Media Report
 = 2.0.3 =
-Remove Bugs in Social Media Report
+Optimize Handling
 = 2.0.4 =
-Allow HTTPS URLs
+Allow HTTPS Links
