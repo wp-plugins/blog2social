@@ -2,7 +2,7 @@
 Plugin Name: Blog2Social - Social Media Auto Publish
 Contributors: Adenion
 Donate link: http://www.blog2social.com
-Tags: social media management, blog marketing, social media tool, blog2social, Facebook, Facebook pages, Google plus, Google plus pages, Jetpack, Jetpack Sharing, Linkedin, Multiposting, pinterest, social media, social media button, social media sharing, social network icon, social network widget, socialmedia, Storify, social media auto publish, social media publishing, social network auto publish, Tumblr, Twitter, Xing, social media business, social media manager
+Tags: social media management, blog marketing, social media tool, blog2social, Facebook, Facebook pages, Google plus, Google plus pages, Jetpack, Jetpack Sharing, Linkedin, Multiposting, pinterest, social media, social media button, social media sharing, social network icon, social network widget, socialmedia, Storify, social media auto publish, social media publishing, social network auto publish, Tumblr, Twitter, Xing, social media business, social media manager, Buffer, scheduling, timing, social media scheduling tool
 Requires at least: 4.0
 Tested up to: 4.3
 Stable tag: 2.0.4
@@ -15,9 +15,8 @@ Blog2Social makes social media management more effective. It publishes social me
 
 **Blog2Social Will Help You Promote Your Blog Posts on Popular Social Media Sites**
 
-Blog2Social will become an effective solution for the social media management of your blog posts. Submit your blog posts to popular social networks, on profiles, pages and groups in just one easy step. Blog2Social makes the submission process quick and easy and at the same time allows you to customize your posts for each network. With just one click the posts will be published on your personal selection of profiles, pages and groups on Facebook, Facebook Pages, Google+, Google+ Pages, Google+ Communities, Twitter, LinkedIn, LinkedIn Pages, LinkedIn Groups Xing, Pinterest, Flickr, Diigo, Tumblr and Storify. 
-On a preview pane you may customize your posts and comments per network for different target groups or to add #hashtags, tags, keywords or @handles, where these are applicable. One click and your post is published on all your selected networks.
-
+Blog2Social will become an effective solution for the social media management of your blog posts. Submit your blog posts to popular social networks, on profiles, pages and groups in just one easy step. Blog2Social makes the submission process quick and easy and at the same time allows you to customize your posts for each network. With just one click the posts will be published on your personal selection of profiles, pages and groups on Facebook, Facebook Pages, Google+, Google+ Pages, Google+ Communities, Twitter, LinkedIn, LinkedIn Pages, LinkedIn Groups Xing, Pinterest, Flickr, Diigo, Tumblr and Storify. On a preview pane you may customize your posts and comments per network for different target groups or to add #hashtags, tags, keywords or @handles, where these are applicable. One click and your post is published on all your selected networks.
+Easily schedule your posts: buffer your posts and Blog2Social sends them for you at any time to any of your networks individually and automatically. 
 Drive more traffic to your site by promoting your blog posts on all of your social media accounts and get your work done much quicker and easier than ever. Save the time-consuming manual work for submitting to each network individually and get quick and effective results. 
 
 
@@ -31,7 +30,7 @@ Drive more traffic to your site by promoting your blog posts on all of your soci
 * Individualize posts and comments for each networks
 * Manage your Author posts
 * Post images
-* Reportings
+* Reporting
 
 
 Social Networks:
@@ -50,13 +49,13 @@ Social Networks:
 
 = Pro Features: =
 
-* Post to all of your networks
+* Share easily to all your Twitter profiles, Facebook profiles and pages, LinkedIn profiles and pages, Google+ profiles, pages and groups and many more 
 * Individualize posts and comments for each networks
 * Manage your Author posts
-* Manage your Author posts
-* Reporting
+* Reporting with publish social media links
 * User per license: up to 10 users
 * Post images
+* Schedule your blog posts to automatically publish themselves at any time to any of your networks in the future
 
 
 Social Networks:
@@ -96,25 +95,20 @@ You may pay via PayPal.
 Upgrade Blog2Social now ? [http://service.blog2social.com/](http://service.blog2social.com/ "Blog2Social Service")
 
 = PR-Gateway =
-With Blog2Social you also have the option to broadcast your blog post to the PR-Gateway network of news websites, special interest websites, regional portals, industry websites and document networks like Slideshare, Scribd or Issuu to make your content and your blog even more popular. Publish your blog content and increase your presence on the web - with one click only.
+With Blog2Social you also have the option to broadcast your blog post to the PR-Gateway network of news websites, 
+special interest websites, regional portals, industry websites and document networks like Slideshare, Scribd or Issuu to make your content and your blog 
+even more popular. Publish your blog content and increase your presence on the web - with one click only.
 Create your free account at [pr-gateway.de/anmeldung](http://www.pr-gateway.de/anmeldung "PR-Gateway free register")
-
 
 == Installation ==
 
 1.Go to the Admin Panel of your Wordpress 
-
 2.On the left menu click on "Plugin" -> "Add New"
 3.Search for "Blog2Social"
-
 4.Click on "Install Now"
-
 5.If asked enter your FTP Data to install the plugin
-
 6.After the installation click "Activate Plugin"
-
 7.A new Menu should appear in the left menu of the Admin Panel
-
 
 == Frequently Asked Questions ==
 
@@ -127,25 +121,20 @@ Yes it is completely free to publish your article on your social media accounts.
 
 No, the needed permissions are the standard Options ( "wp-content/plugins" 755)
 
+= My Google+ Account does 
 
-= My Google+ Account does not work! What do I need to do? =
+not work! What do I need to do? =
 
 At first please log in to your google-account on [google](http://www.google.com "google.com")
-
 Now go to the site: [unlock captcha](https://accounts.google.com/UnlockCaptcha "Captcha Unlocker") Here you get to the security settings from your Google+ Account.
-
 Now you see a security query. By confirming the query your account will be connected to the plugin. You now will get a note that your access to Google+ is activated.
-
 Done!
 
-
 = Where do passwords, usernames and personal data get stored? =
-
 
 The social networks have official interfaces to third-party applications.
 These interfaces authorize the connection to the networks and do not store any login or personal data. 
 Usernames and passwords are saved and stored within the social networks only and nowhere else. Blog2Social has the authorization to get access to these interfaces and only stores this authorization in an encrypted code. Blog2Social neither stores passwords, usernames nor any personal data.
-
 
 
 == Screenshots ==
@@ -155,9 +144,8 @@ Usernames and passwords are saved and stored within the social networks only and
 2. Network Overview
 
 == Changelog ==
-= 
-1.0 =
-* first Release
+= 1.0 = 
+first Release
 = 2.0.0 =
 New Version
 = 2.0.1 =
