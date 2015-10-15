@@ -16,7 +16,9 @@ Blog2Social makes social media management more effective. It publishes social me
 **Blog2Social Will Help You Promote Your Blog Posts on Popular Social Media Sites**
 
 Blog2Social will become an effective solution for the social media management of your blog posts. Submit your blog posts to popular social networks, on profiles, pages and groups in just one easy step. Blog2Social makes the submission process quick and easy and at the same time allows you to customize your posts for each network. With just one click the posts will be published on your personal selection of profiles, pages and groups on Facebook, Facebook Pages, Google+, Google+ Pages, Google+ Communities, Twitter, LinkedIn, LinkedIn Pages, LinkedIn Groups Xing, Pinterest, Flickr, Diigo, Tumblr and Storify. On a preview pane you may customize your posts and comments per network for different target groups or to add #hashtags, tags, keywords or @handles, where these are applicable. One click and your post is published on all your selected networks.
+
 Easily schedule your posts: buffer your posts and Blog2Social sends them for you at any time to any of your networks individually and automatically. 
+
 Drive more traffic to your site by promoting your blog posts on all of your social media accounts and get your work done much quicker and easier than ever. Save the time-consuming manual work for submitting to each network individually and get quick and effective results. 
 
 
