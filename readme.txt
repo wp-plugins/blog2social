@@ -9,22 +9,38 @@ Stable tag: 2.0.4
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Blog2Social makes social media management more effective. It publishes social media posts automatically. Blog2Social is ideal for blog marketing.
+Customize, schedule & publish blog posts automatically & individually to all your social networks. Boost social exposure & blog traffic.
 
 == Description ==
 
-**Blog2Social Will Help You Promote Your Blog Posts on Popular Social Media Sites**
+**Supported languages: German, English**
 
-Blog2Social will become an effective solution for the social media management of your blog posts. Submit your blog posts to popular social networks, on profiles, pages and groups in just one easy step. Blog2Social makes the submission process quick and easy and at the same time allows you to customize your posts for each network. With just one click the posts will be published on your personal selection of profiles, pages and groups on Facebook, Facebook Pages, Google+, Google+ Pages, Google+ Communities, Twitter, LinkedIn, LinkedIn Pages, LinkedIn Groups Xing, Pinterest, Flickr, Diigo, Tumblr and Storify. On a preview pane you may customize your posts and comments per network for different target groups or to add #hashtags, tags, keywords or @handles, where these are applicable. One click and your post is published on all your selected networks.
+**Automatically post, re-publish and schedule your blogs posts to social networks, such as Facebook, Twitter, Google+ (Google Plus), LinkedIn, XING...**
 
-Easily schedule your posts: buffer your posts and Blog2Social sends them for you at any time to any of your networks individually and automatically. 
+* The Blog2Social Plugin posts to profiles, business pages, community pages and groups of your configured social networks. Optionally, posted messages can be customized for each network requirements with individual comments, hastags, tags or @handles - all in one easy step and with one click only.
+* Publish new posts or re-publish old posts and either post entire blog post or individually formatted posts and comments with selected images and backlinks to your blog. 
+* Corporate Blogs and Multi Author Blogs: Create multiple sets of social network profiles, pages and groups per blog and user.  
+* Drive more traffic to your blog by cross-posting and promoting your blog posts on all of your social media network accounts and get your work done much quicker and easier than ever.
 
-Drive more traffic to your site by promoting your blog posts on all of your social media accounts and get your work done much quicker and easier than ever. Save the time-consuming manual work for submitting to each network individually and get quick and effective results. 
+= Supported Networks =
+
+* Twitter - Autopost to your account. Auto-Submit Images with your tweets. Optionally, add #hastags and @handles to your post.
+* Facebook - Autopost to your profile and business oder community pages. Auto-submit attached posts with image and link to your Facebook accounts. Optionally, add individual comments and #hashtags.
+* Google+ - Autopost to your profile, business page or Google+ community. Auto-submit attached post with image and link or entire blog post to your Google+ accounts. Optionally, add an individual comment and #hashtags. 
+* LinkedIn - Autopost to your account, your profile and company pages. Auto-submit attached post with image and link. Optionally, add individual comments with #hashtags.
+* XING - Autopost to your account. Auto-submit text message and link. Optionally add individual comments and links.
+* Flickr - Autopost to your photostream. Auto-submit image and entire post. Optionally, individualize post and add tags.
+* Pinterest - Autopost to your selected Pinterest board. Auto-submit a selected image from your post galerie and link to your blog. Optionally, add individual comments with #hashtags
+* Tumblr - Autopost to your account. Auto-submit entire blogpost and image to your Tumblr blog. Optionally, customize post and add tags and #hashtags.
+* Diigo - Auto-submit bookmark to your account.
+* Storify - Autopost to your account. Auto-submit entire post and link. Optionally, customize post and add #hashtags.
 
 
-**Social Media Networks:**
- Facebook, Facebook pages, Twitter, Google+, Google+ pages, Google+ communities, LinkedIn, LinkedIn pages, LinkedIn groups, Xing, Tumblr, Storify, Pinterest, Flickr, Diigo
+Blog2Social makes the submission process quick and easy and at the same time allows you to customize your posts for each network requirements. With just one click the posts will be published on your personal selection of profiles, pages and groups on Facebook, Facebook Pages, Google+, Google+ Pages, Google+ Communities, Twitter, LinkedIn, LinkedIn Pages, LinkedIn Groups Xing, Pinterest, Flickr, Diigo, Tumblr and Storify. 
+On a preview pane you may customize your posts and comments per network and add #hashtags, tags, keywords or @handles, where these are applicable. One click and your post will be auto-published on all of your selected networks at your scheduled times.
+Easily schedule your posts: buffer your posts and Blog2Social auto-submits them for you at any time to any of your networks individually and automatically.
 
+Automate your social media management, boost your social media exposure and gain more traffic for your blog. Save the time-consuming manual work for submitting to each network individually and get quick and effective results.
 
 = Free Features: =
 
@@ -96,11 +112,6 @@ Please send your questions by e-mail blog2social@adenion.de
 You may pay via PayPal.
 Upgrade Blog2Social now ? [http://service.blog2social.com/](http://service.blog2social.com/ "Blog2Social Service")
 
-= PR-Gateway =
-With Blog2Social you also have the option to broadcast your blog post to the PR-Gateway network of news websites, 
-special interest websites, regional portals, industry websites and document networks like Slideshare, Scribd or Issuu to make your content and your blog 
-even more popular. Publish your blog content and increase your presence on the web - with one click only.
-Create your free account at [pr-gateway.de/anmeldung](http://www.pr-gateway.de/anmeldung "PR-Gateway free register")
 
 == Installation ==
 
