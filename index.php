@@ -2,9 +2,9 @@
 /**
  * Plugin Name: Blog2Social - Social Media Auto Publish
  * Plugin URI: http://www.blog2social.com
- * Description: Blog2Social makes social media management more effective. It publishes social media posts automatically. Blog2Social is ideal blog marketing.
+ * Description: Customize, schedule & publish blog posts automatically & individually to all your social networks. Boost social exposure & blog traffic.
  * Version: 2.0.4
- * Author: Adenion Developer Team
+ * Author: Blog2Social, Adenion
  */
 define('B2SVERSION', '2.0.4');
 define('B2SPLUGINLANGUAGE', serialize(array('de_DE', 'en_US')));

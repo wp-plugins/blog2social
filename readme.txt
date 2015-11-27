@@ -1,6 +1,6 @@
 === Plugin Name ===
 Plugin Name: Blog2Social - Social Media Auto Publish
-Contributors: Adenion
+Contributors: Blog2Social, Adenion
 Donate link: http://www.blog2social.com
 Tags: social media management, blog marketing, social media tool, blog2social, Facebook, Facebook pages, Google plus, Google plus pages, Jetpack, Jetpack Sharing, Linkedin, Multiposting, pinterest, social media, social media button, social media sharing, social network icon, social network widget, socialmedia, Storify, social media auto publish, social media publishing, social network auto publish, Tumblr, Twitter, Xing, social media business, social media manager, Buffer, scheduling, timing, social media scheduling tool
 Requires at least: 4.0
