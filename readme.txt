@@ -170,4 +170,4 @@ Remove Bugs in Social Media Report
 = 2.0.4 =
 Allow HTTPS URLs
 = 2.1.0 =
-New Version
+New Version with scheduling
