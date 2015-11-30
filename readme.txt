@@ -5,7 +5,7 @@ Donate link: http://www.blog2social.com
 Tags: social media management, blog marketing, social media tool, blog2social, Facebook, Facebook pages, Google plus, Google plus pages, Jetpack, Jetpack Sharing, Linkedin, Multiposting, pinterest, social media, social media button, social media sharing, social network icon, social network widget, socialmedia, Storify, social media auto publish, social media publishing, social network auto publish, Tumblr, Twitter, Xing, social media business, social media manager, Buffer, scheduling, timing, social media scheduling tool
 Requires at least: 4.0
 Tested up to: 4.3
-Stable tag: 2.0.4
+Stable tag: 2.1.0
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -169,3 +169,5 @@ Optimize Handling and Remove Bugs in Social Media Report
 Remove Bugs in Social Media Report
 = 2.0.4 =
 Allow HTTPS URLs
+= 2.1.0 =
+New Version
