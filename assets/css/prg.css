@@ -1,0 +1,206 @@
+root { 
+    display: block;
+}
+
+.prg-header{
+    //background: none repeat scroll 0 0 #f5f5f5;
+    margin: 6px 0;
+}
+
+.btn{
+    border-radius:0px !important;
+}
+
+fieldset {
+    border: 0px !important;
+}
+
+.error {
+    border: 1px solid rgb(255, 0, 0);
+}
+.nav-tabs {
+    border-bottom: 0 !important;
+    padding-bottom: 10px;
+}
+.nav-tabs > li.active > a, .nav-tabs > li.active > a:hover, .nav-tabs > li.active > a:focus {
+    background-color: #fdbf45 !important;
+    color: #fff;
+}
+.nav-pills > li > a {
+    border-radius: 0 !important;
+}
+
+.nav-tabs > li > a, .label {
+    border: 0px !important;
+    border-radius:0px !important;
+}
+.prg-logo {
+    width: 45%;
+    margin-top: 10px;
+}
+
+.form-control{
+    border-radius:0px !important;
+}
+
+.prg-account-logo {
+    width: 8%;
+}
+.prg-account {
+    margin-top: 6px;
+    text-align: right;
+    margin-right: 20px;
+    white-space: nowrap;
+}
+
+#leftPublishForm {
+    width: 55%;
+    float: left;
+    border-right: 1px solid rgb(229, 229, 229);
+}
+
+#rightPublishForm {
+    width: 44%;
+    float: left;
+}
+
+#leftLoginForm {
+    float: left;
+}
+
+#rightLoginForm {
+    float: left;
+}
+
+#bottomPublishForm {
+    margin-top: 14px;
+}
+
+#clientdata {
+    left: 56%;
+    position: absolute;
+}
+
+.picList {
+    min-width: 150px;
+    max-width: 200px;
+    float: left;
+}
+
+.rowImages {
+    height: 125px;
+    max-height: 125px;
+}
+
+#img_rights {
+    display: none;
+}
+
+#submitDiv {
+    position: fixed;
+    bottom: 7px;
+    right: 10px;
+    z-index: 9999;
+}
+
+.label-primary {
+    background-color: #FDBF45;
+}
+
+#submitDraft {
+    background-color: #FDBF45;
+    border-color: #FDB62C;
+    color: #FFFFFF;
+}
+
+.draft{
+    background-color: #FDBF45 !important;
+    border-color: #FDBF45 !important;;
+}
+
+#submitDraft:hover,
+#submitDraft:focus,
+#submitDraft:active {
+    background-color: #FDB11D;
+    border-color: #E99B03;
+    color: #FFFFFF;
+}
+
+#saved {
+    display: none;
+}
+
+#btnChangeParticulars {
+    margin-bottom: 10px;
+    margin-right: 10px;
+}
+
+label.error {
+    color: red;
+}
+
+.clear {
+    clear: both;
+}
+
+#clearbot {
+    height: 45px;
+}
+
+.administrative-label {
+    background-color: #9E0000;
+    border-color: #AB0000;
+}
+
+.administrative {
+    background-color: #9E0000;
+    border-color: #AB0000;
+}
+
+.administrative:hover,
+.administrative:focus,
+.administrative:active {
+    background-color: #AB1B1B;
+    border-color: #AB1B1B;
+}
+
+.userbtn {
+    background-color: #79B331;
+    border-color: #64B331;
+    border-radius:0px !important;
+}
+
+.userbtn:hover,
+.userbtn:focus,
+.userbtn:active {
+    background-color: #93C754;
+    border-color: #93C754;
+}
+
+.label {
+    font-weight: normal;
+}
+
+.imgs {
+    max-height: 140px;
+    max-width: 100%;
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+.picWithRadio {
+    height: 170px;
+}
+
+.pic {
+    height: 140px;
+}
+
+.select {
+    height: 30px;
+}
+
+.rowPics {
+    height: 170px;
+}
